@@ -6,4 +6,4 @@ As you can see this is not a wiki game and everything you would want to know is 
 You can read about any subject about the game below.
 
 ## Core mechanics
-[Tank spawners](CoreMechanics/TankSpawner.md)
+- [Tank spawners](CoreMechanics/TankSpawner.md)
