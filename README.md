@@ -7,3 +7,4 @@ You can read about any subject about the game below.
 
 ## Core mechanics
 - [Tank spawners](CoreMechanics/TankSpawner.md)
+- [Tanks](CoreMechanics/Tanks.md)
