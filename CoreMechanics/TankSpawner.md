@@ -6,3 +6,5 @@ Upon interacting with it you will open a menu in wich you can see all the tanks 
 ## How do i unlock a tank
 
 It's easy just go back to the main menu by resseting and open the tank UI. Here you can buy the tanks you want.
+
+[Go back](../README.md)
